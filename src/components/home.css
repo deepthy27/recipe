@@ -1,0 +1,57 @@
+.image{
+    background-image: url("https://www.mccain.com/media/2556/mccain-fries-and-appetizers.jpg");
+  height: 655.5px; 
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.log{
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRmYqEk81uFjVupDaFSFC3yjWdiqCnzIXRqCuvh3xjHplJU_-1vQ&s");
+    height: 600px; 
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.emo1{
+    width: 500px;
+    height: 400px;
+    margin: 50px 0px 0px 400px;
+}
+.but{
+    margin: 10px 0px 0px 1150px;
+}
+.but1{
+    margin-top: 10px;
+    margin-left: 40px;
+}
+.reg{
+    background-image: url("https://images.getbento.com/accounts/eb9a488fc75a82bf5bab67e4135595fc/media/images/26100ankit-sinha-637752-unsplash.jpg?fit=max&w=1800&auto=format,compress");
+    height: 600px; 
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.food {
+    width: 400px;
+    height: 200px;
+    margin: 30px 0px 0px 25px;
+  }
+  .item{
+      margin-top: 30px;
+      margin-left:120px;
+      color: brown;
+  }
+  .search{
+     margin-top: 10px;
+      height:30px;
+     margin-left: 50px;
+  }
+  .searchimg{
+      height:40px;
+      width: 70px;
+      margin-right: 150px;
+      margin-top: 10px;
+  }
+  .recipesclr{
+      background-color: honeydew;
+  }
